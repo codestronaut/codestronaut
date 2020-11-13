@@ -7,9 +7,9 @@
 ## I'm a Student, Developer, and Designer!!
 
 - 🔭 I just launched my official blog: [Craft With Me][blog]!
-- 🌱 I’m currently learning Flutter 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Being a Fully Fledged Flutter Developer and contribute to open source and community
+- 🌱 I’m currently learning Flutter 😊
+- 👨‍💻👩‍💻 I’m looking to collaborate with other content creators
+- ⛳️ 2020 Goals: Being a Fully Fledged Flutter Developer and contribute to open source and community
 - ⚡ Fun fact: I lve to play game and listen music
 
 
@@ -50,7 +50,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📒 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [DFS#3 - Final & Const](https://craftwithme.id/dfs-3-final-const/)
