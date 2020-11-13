@@ -49,6 +49,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DFS#3 - Final & Const](https://craftwithme.id/dfs-3-final-const/)
+- [DFS#2 - VARIABEL DAN TIPE DATA](https://craftwithme.id/dfs-2/)
+- [DFS#1 - Hello World!](https://craftwithme.id/flutter-story-1-i-am-rich-app-2/)
+- [What is Clean Code? Why is matters?](https://craftwithme.id/what-is-clean-code-why-is-matters/)
+- [Flutter Story #1 — I Am Rich App](https://craftwithme.id/flutter-story-1-i-am-rich-app/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://www.craftwithme.id
