@@ -51,6 +51,11 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=codestronaut)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [website]: https://www.craftwithme.id
 [blog]: https://www.craftwithme.id
 [twitter]: https://twitter.com/codestronaut1
