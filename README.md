@@ -42,6 +42,10 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Bermain Codewars 8 Kyu](https://www.youtube.com/watch?v=O_2DA-aKTwQ)
+- [Push Rank CodeWars #1 (Speed Coding no explanation)](https://www.youtube.com/watch?v=z4IvorSZxxY)
+- [What is Clean Code? Why it Matters?](https://www.youtube.com/watch?v=5pZLausR_bc)
+- [Process in Operating System (Bahasa Indonesia)](https://www.youtube.com/watch?v=Ko0em-50DkM)
 <!-- YOUTUBE:END -->
 
 ---
@@ -49,6 +53,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DFS#3 - Final & Const](https://craftwithme.id/dfs-3-final-const/)
+- [DFS#2 - VARIABEL DAN TIPE DATA](https://craftwithme.id/dfs-2/)
+- [DFS#1 - Hello World!](https://craftwithme.id/flutter-story-1-i-am-rich-app-2/)
+- [What is Clean Code? Why is matters?](https://craftwithme.id/what-is-clean-code-why-is-matters/)
+- [Flutter Story #1 — I Am Rich App](https://craftwithme.id/flutter-story-1-i-am-rich-app/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
