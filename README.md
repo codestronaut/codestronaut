@@ -1,12 +1,10 @@
 ### Hi there, I'm Aditya - aka [codestronaut][website] 👋
 
-[![Website](https://img.shields.io/website?color=00e676&label=craftwithme.id&style=for-the-badge&url=https%3A%2F%2Fwww.craftwithme.id)](https://www.craftwithme.id)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codestronaut1?color=1DA1F2&label=Follow%20%40codestronaut1&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcodestronaut1&screen_name=codestronaut1)
 
 
 ## I'm a Student, Developer, and Designer!!
 
-- 🔭 I just launched my official blog: [Craft With Me][blog]!
 - 🌱 I’m currently learning Flutter 😊
 - 👨‍💻👩‍💻 I’m looking to collaborate with other content creators
 - ⛳️ 2020 Goals: Being a Fully Fledged Flutter Developer and contribute to open source and community
@@ -50,25 +48,11 @@
 
 ---
 
-### 📒 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [DFS#3 - Final & Const](https://craftwithme.id/dfs-3-final-const/)
-- [DFS#2 - Variabel dan Tipe Data](https://craftwithme.id/dfs-2/)
-- [DFS#1 - Hello World!](https://craftwithme.id/flutter-story-1-i-am-rich-app-2/)
-- [What is Clean Code? Why is matters?](https://craftwithme.id/what-is-clean-code-why-is-matters/)
-- [Flutter Story #1 — I Am Rich App](https://craftwithme.id/flutter-story-1-i-am-rich-app/)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=codestronaut)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codestronaut)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[website]: https://www.craftwithme.id
-[blog]: https://www.craftwithme.id
 [twitter]: https://twitter.com/codestronaut1
 [youtube]: https://www.youtube.com/channel/UCflsl9zY3FWVkp-eIwOFYaw
 [instagram]: https://www.instagram.com/adityaa.r__
