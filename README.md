@@ -1,5 +1,7 @@
 ### Hi there, I'm Aditya - aka [codestronaut] 👋
 
+[<img alt="Gmail" src="https://img.shields.io/badge/hello.adityarohman@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
+
 ## I'm a Student, Developer, and Designer!!
 
 - 🌱 I’m currently learning Flutter 😊
@@ -56,3 +58,4 @@
 [flutter]: https://flutter.dev
 [kotlin]: https://kotlinlang.org
 [java]: https://www.oracle.com/java/technologies/javase-downloads.html
+[email]: mailto:hello.adityarohman@gmail.com
