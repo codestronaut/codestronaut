@@ -1,8 +1,5 @@
 ### Hi there, I'm Aditya - aka [codestronaut] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codestronaut1?color=1DA1F2&label=Follow%20%40codestronaut1&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcodestronaut1&screen_name=codestronaut1)
-
-
 ## I'm a Student, Developer, and Designer!!
 
 - 🌱 I’m currently learning Flutter 😊
