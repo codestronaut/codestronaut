@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Flutter 😊
 - 👨‍💻👩‍💻 I’m looking to collaborate with other content creators
 - ⛳️ 2021 Goals: Being a Fully Fledged Flutter Developer and contribute to open source and community
-- ⚡ Fun fact: I lve to play game and listen music
+- ⚡ Fun fact: I love to play game and listen music
 
 
 ### Connect with me:
