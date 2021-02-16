@@ -41,7 +41,7 @@
 
 ---
 
-[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=codestronaut)](https://github.com/anuraghazra/github-readme-stats)
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=codestronaut)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=blueberry)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codestronaut&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
