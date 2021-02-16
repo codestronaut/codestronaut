@@ -29,7 +29,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### Latest YouTube Videos 📺
 
 <!-- YOUTUBE:START -->
 - [Cara Mendapatkan Passive Income dengan Menjadi Creator di Uplabs (plus Speed Design Process) | STD](https://www.youtube.com/watch?v=gTNblAf15E0)
