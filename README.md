@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-[<img alt="Youtube" src="https://img.shields.io/badge/Hello Aditya>%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>][youtube]
-[<img align="left" alt="codestronaut1 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img alt="Youtube" src="https://img.shields.io/badge/Hello Aditya%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>][youtube]
+[<img alt="Twitter" src="https://img.shields.io/badge/codestronaut1%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]
 [<img align="left" alt="Aditya Rohman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Aditya Rohman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
