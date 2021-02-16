@@ -46,7 +46,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codestronaut&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/codestronaut1
-[youtube]: https://www.youtube.com/channel/UCflsl9zY3FWVkp-eIwOFYaw
+[youtube]: https://www.youtube.com/channel/UCkneuRboNnrK25dEDwIVPAw
 [instagram]: https://www.instagram.com/adityaa.r__
 [linkedin]: https://www.linkedin.com/in/aditya-rohman-198299186
 [tipsplaylist]: https://www.youtube.com/playlist?list=PL7fkRVRcqd3mwovrYCSQQtBY0hhjGadGx
