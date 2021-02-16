@@ -32,10 +32,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Bermain Codewars 8 Kyu](https://www.youtube.com/watch?v=O_2DA-aKTwQ)
-- [Push Rank CodeWars #1 (Speed Coding no explanation)](https://www.youtube.com/watch?v=z4IvorSZxxY)
-- [What is Clean Code? Why it Matters?](https://www.youtube.com/watch?v=5pZLausR_bc)
-- [Process in Operating System (Bahasa Indonesia)](https://www.youtube.com/watch?v=Ko0em-50DkM)
+- [Cara Mendapatkan Passive Income dengan Menjadi Creator di Uplabs (plus Speed Design Process) | STD](https://www.youtube.com/watch?v=gTNblAf15E0)
+- [Flutter UI - Membuat Onboarding Screen [Speed Coding] | Design to Code EP1](https://www.youtube.com/watch?v=0G1i1Xb4L2E)
+- [8 Tips Untuk Memulai Belajar Programming [Based On Experience] - Coding Tips | DevVlog #2](https://www.youtube.com/watch?v=PcdBe0IPpQg)
+- [Bagaimana Proses Pembuatan Aplikasi? | App Development Process | DevVlog #1](https://www.youtube.com/watch?v=yzwWRteUfaM)
+- [Hello World | Channel Trailer](https://www.youtube.com/watch?v=PsBz30-9MuE)
 <!-- YOUTUBE:END -->
 
 ---
