@@ -20,16 +20,14 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Frameworks:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/codestronaut/icon-container/main/vscode.png" />][vscode]
-[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/codestronaut/icon-container/main/android.png" />][android]
-[<img align="left" alt="Kotlin" width="26px" src="https://raw.githubusercontent.com/codestronaut/icon-container/main/kotlin.png" />][kotlin]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/codestronaut/icon-container/main/adobexd.png" />][adobexd]
-[<img align="left" alt="Figma" width="24px" src="https://raw.githubusercontent.com/codestronaut/icon-container/main/figma.png" />][figma]
-[<img align="left" alt="Dart" width="72px" src="https://raw.githubusercontent.com/codestronaut/icon-container/main/dart.png" />][dart]
-[<img align="left" alt="Flutter" width="72px" src="https://raw.githubusercontent.com/codestronaut/icon-container/main/flutter.png" />][flutter]
-[<img align="left" alt="Github" width="26px" src="https://raw.githubusercontent.com/codestronaut/icon-container/main/github.png" />][github]
+[<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />][android]
+[<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>][kotlin]
+[<img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>][adobexd]
+[<img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>][figma]
+[<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>][dart]
+[<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />][flutter]
 
 <br />
 <br />
