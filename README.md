@@ -18,7 +18,7 @@
 [<img alt="LinkedIn" src="https://img.shields.io/badge/aditya rohman%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img alt="Instagram" src="https://img.shields.io/badge/adityaa.r__%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
 
-### Languages and Frameworks:
+### Languages, Frameworks, and Tools:
 
 [<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />][android]
 [<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>][kotlin]
