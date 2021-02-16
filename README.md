@@ -18,8 +18,6 @@
 [<img alt="LinkedIn" src="https://img.shields.io/badge/aditya rohman%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img alt="Instagram" src="https://img.shields.io/badge/adityaa.r__%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
 
-<br />
-
 ### Languages and Frameworks:
 
 [<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />][android]
@@ -28,9 +26,6 @@
 [<img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>][figma]
 [<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>][dart]
 [<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />][flutter]
-
-<br />
-<br />
 
 ---
 
@@ -56,11 +51,9 @@
 [linkedin]: https://www.linkedin.com/in/aditya-rohman-198299186
 [tipsplaylist]: https://www.youtube.com/playlist?list=PL7fkRVRcqd3mwovrYCSQQtBY0hhjGadGx
 [codewarsplaylist]: https://www.youtube.com/playlist?list=PL7fkRVRcqd3lN-9RmNUyikC5MSm0rlE86
-[vscode]: https://code.visualstudio.com
 [android]: https://developer.android.com
 [adobexd]: https://www.adobe.com/products/xd.html
 [figma]: https://www.figma.com
 [dart]: https://dart.dev
 [flutter]: https://flutter.dev
 [kotlin]: https://kotlinlang.org
-[github]: https://github.com
