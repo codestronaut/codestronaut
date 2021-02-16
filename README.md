@@ -43,7 +43,7 @@
 
 [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=codestronaut&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codestronaut&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codestronaut&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/codestronaut1
 [youtube]: https://www.youtube.com/channel/UCflsl9zY3FWVkp-eIwOFYaw
