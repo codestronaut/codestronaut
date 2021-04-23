@@ -36,7 +36,7 @@
 - [Flutter UI - Membuat Onboarding Screen [Speed Coding] | Design to Code EP1](https://www.youtube.com/watch?v=0G1i1Xb4L2E)
 - [8 Tips Untuk Memulai Belajar Programming [Based On Experience] - Coding Tips | DevVlog #2](https://www.youtube.com/watch?v=PcdBe0IPpQg)
 - [Bagaimana Proses Pembuatan Aplikasi? | App Development Process | DevVlog #1](https://www.youtube.com/watch?v=yzwWRteUfaM)
-- [Hello World | Channel Trailer](https://www.youtube.com/watch?v=PsBz30-9MuE)
+- [Hello World](https://www.youtube.com/watch?v=PsBz30-9MuE)
 <!-- YOUTUBE:END -->
 
 ---
