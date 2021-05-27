@@ -40,6 +40,13 @@
 
 ---
 
+### 📒 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=codestronaut&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codestronaut&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
