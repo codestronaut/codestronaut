@@ -34,7 +34,7 @@
 <!-- YOUTUBE:START -->
 - [Cara Mendapatkan Passive Income dengan Menjadi Creator di Uplabs (plus Speed Design Process) | STD](https://www.youtube.com/watch?v=gTNblAf15E0)
 - [Flutter UI - Membuat Onboarding Screen [Speed Coding] | Design to Code EP1](https://www.youtube.com/watch?v=0G1i1Xb4L2E)
-- [8 Tips Untuk Memulai Belajar Programming [Based On Experience] - Coding Tips | DevVlog #2](https://www.youtube.com/watch?v=PcdBe0IPpQg)
+- [Tips Untuk Mulai Belajar Coding | DevVlog #2](https://www.youtube.com/watch?v=PcdBe0IPpQg)
 - [Bagaimana Proses Pembuatan Aplikasi? | App Development Process | DevVlog #1](https://www.youtube.com/watch?v=yzwWRteUfaM)
 <!-- YOUTUBE:END -->
 
