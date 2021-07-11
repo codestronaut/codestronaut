@@ -32,10 +32,10 @@
 ### Latest YouTube Videos 📺
 
 <!-- YOUTUBE:START -->
-- [Cara Mendapatkan Passive Income dengan Menjadi Creator di Uplabs (plus Speed Design Process) | STD](https://www.youtube.com/watch?v=gTNblAf15E0)
-- [Flutter UI - Membuat Onboarding Screen [Speed Coding] | Design to Code EP1](https://www.youtube.com/watch?v=0G1i1Xb4L2E)
-- [Tips Untuk Mulai Belajar Coding | DevVlog #2](https://www.youtube.com/watch?v=PcdBe0IPpQg)
-- [Bagaimana Proses Pembuatan Aplikasi? | App Development Process | DevVlog #1](https://www.youtube.com/watch?v=yzwWRteUfaM)
+- [JADI KREATOR DI UPLABS BISA DAPAT PASSIVE INCOME](https://www.youtube.com/watch?v=gTNblAf15E0)
+- [MEMBUAT ONBOARDING SCREEN DENGAN FLUTTER](https://www.youtube.com/watch?v=0G1i1Xb4L2E)
+- [TIPS MENJADI SELF-TAUGHT PROGRAMMER](https://www.youtube.com/watch?v=PcdBe0IPpQg)
+- [BAGAIMANA DEVELOPMENT PROCESS SEBUAH APLIKASI?](https://www.youtube.com/watch?v=yzwWRteUfaM)
 <!-- YOUTUBE:END -->
 
 ---
