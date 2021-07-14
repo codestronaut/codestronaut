@@ -32,6 +32,7 @@
 ### Latest YouTube Videos 📺
 
 <!-- YOUTUBE:START -->
+- [BUAT APLIKASI LEBIH ENGAGING DENGAN LOTTIE | FLUTTER TIPS](https://www.youtube.com/watch?v=UXastl8wNW4)
 - [JADI KREATOR DI UPLABS BISA DAPAT PASSIVE INCOME](https://www.youtube.com/watch?v=gTNblAf15E0)
 - [MEMBUAT ONBOARDING SCREEN DENGAN FLUTTER](https://www.youtube.com/watch?v=0G1i1Xb4L2E)
 - [TIPS MENJADI SELF-TAUGHT PROGRAMMER](https://www.youtube.com/watch?v=PcdBe0IPpQg)
