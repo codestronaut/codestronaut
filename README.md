@@ -20,14 +20,14 @@
 
 ### 👨‍💻 Programming languages
 
-[<img alt="Java" src="https://img.shields.io/badge/java-FC7565.svg?&style=flat&logo=java&logoColor=white"/>][java]
-[<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-F2A7BA.svg?&style=flat&logo=kotlin&logoColor=white"/>][kotlin]
-[<img alt="Dart" src="https://img.shields.io/badge/dart-085B9A.svg?&style=flat&logo=dart&logoColor=white"/>][dart]
+[<img alt="Java" src="https://img.shields.io/badge/Java-FC7565?logo=java&logoColor=white"/>][java]
+[<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-F2A7BA?logo=kotlin&logoColor=white"/>][kotlin]
+[<img alt="Dart" src="https://img.shields.io/badge/Dart-085B9A?logo=dart&logoColor=white"/>][dart]
 
 ### 🧰 Frameworks and libraries
 
-[<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=263A58&?labelColor=263A58" />][android]
-[<img alt="Flutter" src="https://img.shields.io/badge/flutter-49D2FB.svg?&style=flat&logo=Flutter&logoColor=white" />][flutter]
+[<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />][android]
+[<img alt="Flutter" src="https://img.shields.io/badge/Flutter-095B9A?logo=flutter&logoColor=white" />][flutter]
 
 ### 💻 Software and tools
 
