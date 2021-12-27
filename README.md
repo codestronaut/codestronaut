@@ -27,9 +27,6 @@
 [<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>][dart]
 [<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />][flutter]
 
----
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codestronaut&theme=dark)](https://git.io/streak-stats)
-
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -40,7 +37,7 @@
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
-### Latest YouTube Videos 📺
+## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [FLUTTER ANIMATION DENGAN LOTTIE DALAM 4 MENIT](https://www.youtube.com/watch?v=UXastl8wNW4)
@@ -50,9 +47,7 @@
 - [BAGAIMANA DEVELOPMENT PROCESS SEBUAH APLIKASI?](https://www.youtube.com/watch?v=yzwWRteUfaM)
 <!-- YOUTUBE:END -->
 
----
-
-### 📒 Latest Blog Posts
+## 📒 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Build a Responsive Flutter App with The Power of MediaQuery](https://nightlydev.medium.com/build-a-responsive-flutter-app-with-the-power-of-mediaquery-5188c3fca9c4?source=rss-8f67b6db7256------2)
