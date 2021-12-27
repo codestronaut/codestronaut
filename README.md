@@ -1,17 +1,26 @@
 ### Hi there, I'm Aditya - aka [codestronaut][website] 👋
 
-[<img alt="Gmail" src="https://img.shields.io/badge/hello.adityarohman@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />][email]
-[<img alt="Youtube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCkneuRboNnrK25dEDwIVPAw?label=Subscribers%20&logo=Youtube&style=flat-square"/>][youtube]
-[<img alt="Youtube Views" src="https://img.shields.io/youtube/channel/views/UCkneuRboNnrK25dEDwIVPAw?label=Views%20&logo=Youtube&style=flat-square"/>][youtube]
-[<img alt="LinkedIn" src="https://img.shields.io/badge/aditya rohman%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/>][linkedin]
-[<img alt="Instagram" src="https://img.shields.io/badge/adityaa.r__%20-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white"/>][instagram]
+[<img alt="Gmail" src="https://img.shields.io/badge/hello.adityarohman@gmail.com-D14836?logo=gmail&logoColor=white" />][email]
+[<img alt="Youtube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCkneuRboNnrK25dEDwIVPAw?label=Subscribers%20&logo=Youtube"/>][youtube]
+[<img alt="Youtube Views" src="https://img.shields.io/youtube/channel/views/UCkneuRboNnrK25dEDwIVPAw?label=Views%20&logo=Youtube"/>][youtube]
+[<img alt="LinkedIn" src="https://img.shields.io/badge/Aditya Rohman%20-%230077B5.svg?logo=linkedin&logoColor=white"/>][linkedin]
+[<img alt="Instagram" src="https://img.shields.io/badge/adityaa.r__%20-%23E4405F.svg?logo=Instagram&logoColor=white"/>][instagram]
+[<img alt="Stack Overflow" src="https://img.shields.io/stackexchange/stackoverflow/r/15894688?color=orange&label=Reputation&logo=stackoverflow"/>][stackoverflow]
 
 ## I'm a Student, Mobile Developer, and UI/UX Designer!!
 
-- 🌱 I’m currently learning Flutter 😊
-- 👨‍💻👩‍💻 I’m looking to collaborate with other content creators
-- ⛳️ 2021 Goals: Being a Fully Fledged Flutter Developer and contribute to open source and community
-- ⚡ Fun fact: A mechanical keyboard enthusiast
+<a href="#codestronaut-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=codestronaut&show_icons=true&theme=dracula&hide_border=true" alt="macropower" align="right" />
+</a>
+
+<!-- [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=codestronaut&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats) -->
+
+- 🌱 Currently learning Flutter and iOS Development 😊
+- 👨‍💻👩‍💻 Looking to collaborate with other content creators
+- ⛳️ 2022 Goals: Being Full-Time Flutter Developer and contribute to open source
+- ⚡ Fun fact: Always love to code and learn everything
+
+<br>
 
 ## 🔥 Streak stats
 
@@ -24,6 +33,10 @@
 </p>
 
 ## 🛠️ My favorite tools
+
+<a href="#codestronaut-title">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codestronaut&layout=compact&theme=darcula&hide_border=true" alt="macropower" align="right" />
+</a>
 
 ### 👨‍💻 Programming languages
 
@@ -66,6 +79,8 @@
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFBD46?logo=firebase&logoColor=white"/>
 </p>
 
+<br>
+
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -82,12 +97,9 @@
 - [Build a Responsive Flutter App with The Power of MediaQuery](https://nightlydev.medium.com/build-a-responsive-flutter-app-with-the-power-of-mediaquery-5188c3fca9c4?source=rss-8f67b6db7256------2)
 <!-- BLOG-POST-LIST:END -->
 
-[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=codestronaut&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codestronaut&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
-
 [website]: https://codestronaut.github.io
 [youtube]: https://www.youtube.com/channel/UCkneuRboNnrK25dEDwIVPAw
 [instagram]: https://www.instagram.com/adityaa.r__
 [linkedin]: https://www.linkedin.com/in/adityarohman
 [email]: mailto:hello.adityarohman@gmail.com
+[stackoverflow]: https://stackoverflow.com/users/15894688/aditya
