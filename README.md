@@ -22,7 +22,8 @@
 
 <p>
   <img alt="Bash" src="https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/C-03599C?logo=c&logoColor=white"/>
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white"/>
+  <img alt="C Language" src="https://img.shields.io/badge/C-03599C?logo=c&logoColor=white"/>
   <img alt="C++" src="https://img.shields.io/badge/C++-9C033A?logo=c%2B%2B&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-FC7565?logo=java&logoColor=white"/>
