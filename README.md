@@ -40,7 +40,11 @@
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+[![FLUTTER ANIMATION DENGAN LOTTIE DALAM 4 MENIT](https://freshidea.com/jonah/app/youtube-card/?id=UXastl8wNW4)](https://www.youtube.com/watch?v=UXastl8wNW4 "FLUTTER ANIMATION DENGAN LOTTIE DALAM 4 MENIT")
+[![JADI KREATOR DI UPLABS BISA DAPAT PASSIVE INCOME](https://freshidea.com/jonah/app/youtube-card/?id=gTNblAf15E0)](https://www.youtube.com/watch?v=gTNblAf15E0 "JADI KREATOR DI UPLABS BISA DAPAT PASSIVE INCOME")
+[![MEMBUAT ONBOARDING SCREEN DENGAN FLUTTER](https://freshidea.com/jonah/app/youtube-card/?id=0G1i1Xb4L2E)](https://www.youtube.com/watch?v=0G1i1Xb4L2E "MEMBUAT ONBOARDING SCREEN DENGAN FLUTTER")
+[![TIPS MENJADI SELF-TAUGHT PROGRAMMER](https://freshidea.com/jonah/app/youtube-card/?id=PcdBe0IPpQg)](https://www.youtube.com/watch?v=PcdBe0IPpQg "TIPS MENJADI SELF-TAUGHT PROGRAMMER")
+[![BAGAIMANA DEVELOPMENT PROCESS SEBUAH APLIKASI?](https://freshidea.com/jonah/app/youtube-card/?id=yzwWRteUfaM)](https://www.youtube.com/watch?v=yzwWRteUfaM "BAGAIMANA DEVELOPMENT PROCESS SEBUAH APLIKASI?")<!-- YOUTUBE:END -->
 
 ## 📒 Latest Blog Posts
 
