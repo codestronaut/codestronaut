@@ -28,7 +28,7 @@
 [<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />][flutter]
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codestronaut)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codestronaut&theme=dark)](https://git.io/streak-stats)
 
 ### Latest YouTube Videos 📺
 
