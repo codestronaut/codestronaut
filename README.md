@@ -35,7 +35,7 @@
 ## 🛠️ My favorite tools
 
 <a href="#codestronaut-title">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codestronaut&layout=compact&theme=darcula&hide_border=true" alt="macropower" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codestronaut&layout=compact&theme=dracula&hide_border=true" alt="macropower" align="right" />
 </a>
 
 ### 👨‍💻 Programming languages
