@@ -26,7 +26,8 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-FC7565?logo=java&logoColor=white"/>
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7A59FF?logo=kotlin&logoColor=white"/>
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-085B9A?logo=dart&logoColor=white"/>
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-25BEFA?logo=dart&logoColor=white"/>
+  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white"/>
 </p>
 
 ### 🧰 Frameworks and libraries
