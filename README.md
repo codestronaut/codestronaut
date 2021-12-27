@@ -30,6 +30,8 @@
   <img alt="Swift" src="https://img.shields.io/badge/Swift-FE6C39?logo=swift&logoColor=white"/>
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7A59FF?logo=kotlin&logoColor=white"/>
   <img alt="Dart" src="https://img.shields.io/badge/Dart-25BEFA?logo=dart&logoColor=white"/>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"/>
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"/>
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
 </p>
 
