@@ -20,20 +20,22 @@
 
 ### 👨‍💻 Programming languages
 
-[<img alt="C" src="https://img.shields.io/badge/C-03599C?logo=c&logoColor=white"/>]
-[<img alt="Java" src="https://img.shields.io/badge/Java-FC7565?logo=java&logoColor=white"/>][java]
-[<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7A59FF?logo=kotlin&logoColor=white"/>][kotlin]
-[<img alt="Dart" src="https://img.shields.io/badge/Dart-085B9A?logo=dart&logoColor=white"/>][dart]
+<img alt="C" src="https://img.shields.io/badge/C-03599C?logo=c-in-hexagon&logoColor=white"/>
+<img alt="C++" src="https://img.shields.io/badge/C++-9C033A?logo=cpp2&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/Java-FC7565?logo=java&logoColor=white"/>
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7A59FF?logo=kotlin&logoColor=white"/>
+<img alt="Dart" src="https://img.shields.io/badge/Dart-085B9A?logo=dart&logoColor=white"/>
 
 ### 🧰 Frameworks and libraries
 
-[<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />][android]
-[<img alt="Flutter" src="https://img.shields.io/badge/Flutter-095B9A?logo=flutter&logoColor=white" />][flutter]
+<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-095B9A?logo=flutter&logoColor=white" />
 
 ### 💻 Software and tools
 
-[<img alt="Adobe XD" src="https://img.shields.io/badge/adobe-AF21AA.svg?&style=flat&logo=adobe%20xd&logoColor=white"/>][adobexd]
-[<img alt="Figma" src="https://img.shields.io/badge/figma-263A58.svg?&style=flat&logo=figma&logoColor=white"/>][figma]
+<img alt="Adobe XD" src="https://img.shields.io/badge/adobe-AF21AA.svg?&style=flat&logo=adobe%20xd&logoColor=white"/>
+<img alt="Figma" src="https://img.shields.io/badge/figma-263A58.svg?&style=flat&logo=figma&logoColor=white"/>
 
 ## 🔥 Streak stats
 
@@ -72,13 +74,4 @@
 [youtube]: https://www.youtube.com/channel/UCkneuRboNnrK25dEDwIVPAw
 [instagram]: https://www.instagram.com/adityaa.r__
 [linkedin]: https://www.linkedin.com/in/aditya-rohman-198299186
-[tipsplaylist]: https://www.youtube.com/playlist?list=PL7fkRVRcqd3mwovrYCSQQtBY0hhjGadGx
-[codewarsplaylist]: https://www.youtube.com/playlist?list=PL7fkRVRcqd3lN-9RmNUyikC5MSm0rlE86
-[android]: https://developer.android.com
-[adobexd]: https://www.adobe.com/products/xd.html
-[figma]: https://www.figma.com
-[dart]: https://dart.dev
-[flutter]: https://flutter.dev
-[kotlin]: https://kotlinlang.org
-[java]: https://www.oracle.com/java/technologies/javase-downloads.html
 [email]: mailto:hello.adityarohman@gmail.com
