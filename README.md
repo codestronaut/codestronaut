@@ -21,7 +21,7 @@
 ### 👨‍💻 Programming languages
 
 [<img alt="Android" src="https://img.shields.io/badge/Android-FFFFFF?style=flat&logo=android&logoColor=46E7B7" />][android]
-[<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>][kotlin]
+[<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-FFFFFF.svg?&style=for-the-badge&logo=kotlin&logoColor=F2A7BA"/>][kotlin]
 [<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>][java]
 [<img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>][adobexd]
 [<img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>][figma]
