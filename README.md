@@ -6,7 +6,7 @@
 [<img alt="LinkedIn" src="https://img.shields.io/badge/aditya rohman%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/>][linkedin]
 [<img alt="Instagram" src="https://img.shields.io/badge/adityaa.r__%20-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white"/>][instagram]
 
-## I'm a Student, Developer, and Designer!!
+## I'm a Student, Mobile Developer, and UI/UX Designer!!
 
 - 🌱 I’m currently learning Flutter 😊
 - 👨‍💻👩‍💻 I’m looking to collaborate with other content creators
@@ -35,7 +35,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-FC7565?logo=java&logoColor=white"/>
   <img alt="Swift" src="https://img.shields.io/badge/Swift-FE6C39?logo=swift&logoColor=white"/>
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7A59FF?logo=kotlin&logoColor=white"/>
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-8365E8?logo=kotlin&logoColor=white"/>
   <img alt="Dart" src="https://img.shields.io/badge/Dart-25BEFA?logo=dart&logoColor=white"/>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white"/>
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white"/>
@@ -45,16 +45,25 @@
 ### 🧰 Frameworks and libraries
 
 <p>
-  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
+  <img alt="Android" src="https://img.shields.io/badge/Android-36C89C?logo=android&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-095B9A?logo=flutter&logoColor=white" />
+  <img alt="iOS" src="https://img.shields.io/badge/Ios-FFFFFF?logo=apple&logoColor=black" />
+  <img alt="Github Action" src="https://img.shields.io/badge/GitHub%20Actions-2671E5?logo=github%20actions&logoColor=white" />
 </p>
 
 ### 💻 Software and tools
 
 <p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" />
   <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white"/>
   <img alt="Figma" src="https://img.shields.io/badge/Figma-121011?logo=figma&logoColor=white"/>
   <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678?logo=android-studio&logoColor=white"/>
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
+  <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-FFFFFF?logo=visual-studio-code&logoColor=0078d7"/>
+  <img alt="XCode" src="https://img.shields.io/badge/Xcode-0785DF?logo=xcode&logoColor=white"/>
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-010101?logo=notion&logoColor=white"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFBD46?logo=firebase&logoColor=white"/>
 </p>
 
 ## 📺 Latest YouTube Videos
@@ -73,15 +82,12 @@
 - [Build a Responsive Flutter App with The Power of MediaQuery](https://nightlydev.medium.com/build-a-responsive-flutter-app-with-the-power-of-mediaquery-5188c3fca9c4?source=rss-8f67b6db7256------2)
 <!-- BLOG-POST-LIST:END -->
 
----
-
 [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=codestronaut&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codestronaut&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://codestronaut.github.io
-[twitter]: https://twitter.com/codestronaut1
 [youtube]: https://www.youtube.com/channel/UCkneuRboNnrK25dEDwIVPAw
 [instagram]: https://www.instagram.com/adityaa.r__
-[linkedin]: https://www.linkedin.com/in/aditya-rohman-198299186
+[linkedin]: https://www.linkedin.com/in/adityarohman
 [email]: mailto:hello.adityarohman@gmail.com
