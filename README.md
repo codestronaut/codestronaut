@@ -20,6 +20,7 @@
 
 ### 👨‍💻 Programming languages
 
+[<img alt="C" src="https://img.shields.io/badge/C-03599C?logo=java&logoColor=white"/>][java]
 [<img alt="Java" src="https://img.shields.io/badge/Java-FC7565?logo=java&logoColor=white"/>][java]
 [<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7A59FF?logo=kotlin&logoColor=white"/>][kotlin]
 [<img alt="Dart" src="https://img.shields.io/badge/Dart-085B9A?logo=dart&logoColor=white"/>][dart]
