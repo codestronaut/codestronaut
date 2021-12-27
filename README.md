@@ -20,22 +20,28 @@
 
 ### 👨‍💻 Programming languages
 
-<img alt="C" src="https://img.shields.io/badge/C-03599C?logo=c-in-hexagon&logoColor=white"/>
-<img alt="C++" src="https://img.shields.io/badge/C++-9C033A?logo=cpp2&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/Java-FC7565?logo=java&logoColor=white"/>
-<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7A59FF?logo=kotlin&logoColor=white"/>
-<img alt="Dart" src="https://img.shields.io/badge/Dart-085B9A?logo=dart&logoColor=white"/>
+<p>
+  <img alt="C" src="https://img.shields.io/badge/C-03599C?logo=c-in-hexagon&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-9C033A?logo=cpp2&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-FC7565?logo=java&logoColor=white"/>
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7A59FF?logo=kotlin&logoColor=white"/>
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-085B9A?logo=dart&logoColor=white"/>
+</p>
 
 ### 🧰 Frameworks and libraries
 
-<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-095B9A?logo=flutter&logoColor=white" />
+<p>
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-095B9A?logo=flutter&logoColor=white" />
+</p>
 
 ### 💻 Software and tools
 
-<img alt="Adobe XD" src="https://img.shields.io/badge/adobe-AF21AA.svg?&style=flat&logo=adobe%20xd&logoColor=white"/>
-<img alt="Figma" src="https://img.shields.io/badge/figma-263A58.svg?&style=flat&logo=figma&logoColor=white"/>
+<p>
+  <img alt="Adobe XD" src="https://img.shields.io/badge/adobe-AF21AA.svg?&style=flat&logo=adobe%20xd&logoColor=white"/>
+  <img alt="Figma" src="https://img.shields.io/badge/figma-263A58.svg?&style=flat&logo=figma&logoColor=white"/>
+</p>
 
 ## 🔥 Streak stats
 
