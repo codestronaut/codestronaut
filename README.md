@@ -21,8 +21,8 @@
 ### 👨‍💻 Programming languages
 
 <p>
-  <img alt="C" src="https://img.shields.io/badge/C-03599C?logo=c-in-hexagon&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/C++-9C033A?logo=cpp2&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/C-03599C?logo=c&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-9C033A?logo=cpp&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-FC7565?logo=java&logoColor=white"/>
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7A59FF?logo=kotlin&logoColor=white"/>
