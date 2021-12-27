@@ -26,7 +26,7 @@
 
 ### 🧰 Frameworks and libraries
 
-[<img alt="Android" src="https://img.shields.io/badge/android-46E7B7.svg?style=flat&logo=android&logoColor=white" />][android]
+[<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />][android]
 [<img alt="Flutter" src="https://img.shields.io/badge/flutter-49D2FB.svg?&style=flat&logo=Flutter&logoColor=white" />][flutter]
 
 ### 💻 Software and tools
