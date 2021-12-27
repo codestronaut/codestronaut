@@ -20,14 +20,14 @@
 
 ### 👨‍💻 Programming languages
 
+[<img alt="Java" src="https://img.shields.io/badge/java-FFFFFF.svg?&style=for-the-badge&logo=java&logoColor=FC7565"/>][java]
 [<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-FFFFFF.svg?&style=for-the-badge&logo=kotlin&logoColor=F2A7BA"/>][kotlin]
-[<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>][java]
-[<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>][dart]
+[<img alt="Dart" src="https://img.shields.io/badge/dart-FFFFFF.svg?&style=for-the-badge&logo=dart&logoColor=085B9A"/>][dart]
 
 ### 👨‍💻 Frameworks and libraries
 
 [<img alt="Android" src="https://img.shields.io/badge/android-FFFFFF.svg?style=for-the-badge&logo=android&logoColor=46E7B7" />][android]
-[<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />][flutter]
+[<img alt="Flutter" src="https://img.shields.io/badge/flutter-FFFFFF.svg?&style=for-the-badge&logo=Flutter&logoColor=49D2FB" />][flutter]
 
 ### 👨‍💻 Software and tools
 
