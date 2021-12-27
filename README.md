@@ -52,7 +52,8 @@
 ### 💻 Software and tools
 
 <p>
-  <img alt="Adobe XD" src="https://img.shields.io/badge/adobe-AF21AA.svg?&style=flat&logo=adobe%20xd&logoColor=white"/>
+  <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white"/>
+  <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe-FF0000?logo=adobe%20xd&logoColor=white"/>
   <img alt="Figma" src="https://img.shields.io/badge/figma-263A58.svg?&style=flat&logo=figma&logoColor=white"/>
 </p>
 
