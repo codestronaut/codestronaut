@@ -1,6 +1,10 @@
 ### Hi there, I'm Aditya - aka [codestronaut][website] 👋
 
-[<img alt="Gmail" src="https://img.shields.io/badge/hello.adityarohman@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
+[<img alt="Gmail" src="https://img.shields.io/badge/hello.adityarohman@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />][email]
+[<img alt="Youtube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCkneuRboNnrK25dEDwIVPAw?label=Subscribers%20&logo=Youtube&style=flat-square"/>][youtube]
+[<img alt="Youtube Views" src="https://img.shields.io/youtube/channel/views/UCkneuRboNnrK25dEDwIVPAw?label=Views%20&logo=Youtube&style=flat-square"/>][youtube]
+[<img alt="LinkedIn" src="https://img.shields.io/badge/aditya rohman%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/>][linkedin]
+[<img alt="Instagram" src="https://img.shields.io/badge/adityaa.r__%20-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white"/>][instagram]
 
 ## I'm a Student, Developer, and Designer!!
 
@@ -9,12 +13,15 @@
 - ⛳️ 2021 Goals: Being a Fully Fledged Flutter Developer and contribute to open source and community
 - ⚡ Fun fact: A mechanical keyboard enthusiast
 
+## 🔥 Streak stats
 
-### Connect with me:
-[<img alt="Youtube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCkneuRboNnrK25dEDwIVPAw?label=Subscribers%20&logo=Youtube&style=flat-square"/>][youtube]
-[<img alt="Youtube Views" src="https://img.shields.io/youtube/channel/views/UCkneuRboNnrK25dEDwIVPAw?label=Views%20&logo=Youtube&style=flat-square"/>][youtube]
-[<img alt="LinkedIn" src="https://img.shields.io/badge/aditya rohman%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"/>][linkedin]
-[<img alt="Instagram" src="https://img.shields.io/badge/adityaa.r__%20-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white"/>][instagram]
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="codestronaut's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=codestronaut&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
 
 ## 🛠️ My favorite tools
 
@@ -47,16 +54,6 @@
 <p>
   <img alt="Adobe XD" src="https://img.shields.io/badge/adobe-AF21AA.svg?&style=flat&logo=adobe%20xd&logoColor=white"/>
   <img alt="Figma" src="https://img.shields.io/badge/figma-263A58.svg?&style=flat&logo=figma&logoColor=white"/>
-</p>
-
-## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="codestronaut's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=codestronaut&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
 ## 📺 Latest YouTube Videos
