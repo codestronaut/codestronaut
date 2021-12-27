@@ -1,4 +1,4 @@
-### Hi there, I'm Aditya - aka [codestronaut] 👋
+### Hi there, I'm Aditya - aka [codestronaut][website] 👋
 
 [<img alt="Gmail" src="https://img.shields.io/badge/hello.adityarohman@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
 
@@ -59,6 +59,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codestronaut&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
+[website]: https://codestronaut.github.io
 [twitter]: https://twitter.com/codestronaut1
 [youtube]: https://www.youtube.com/channel/UCkneuRboNnrK25dEDwIVPAw
 [instagram]: https://www.instagram.com/adityaa.r__
