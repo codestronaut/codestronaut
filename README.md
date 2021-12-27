@@ -20,19 +20,19 @@
 
 ### 👨‍💻 Programming languages
 
-[<img alt="Java" src="https://img.shields.io/badge/java-FFFFFF.svg?&style=for-the-badge&logo=java&logoColor=FC7565"/>][java]
-[<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-FFFFFF.svg?&style=for-the-badge&logo=kotlin&logoColor=F2A7BA"/>][kotlin]
-[<img alt="Dart" src="https://img.shields.io/badge/dart-FFFFFF.svg?&style=for-the-badge&logo=dart&logoColor=085B9A"/>][dart]
+[<img alt="Java" src="https://img.shields.io/badge/java-FFFFFF.svg?&style=flat&logo=java&logoColor=FC7565"/>][java]
+[<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-FFFFFF.svg?&style=flat&logo=kotlin&logoColor=F2A7BA"/>][kotlin]
+[<img alt="Dart" src="https://img.shields.io/badge/dart-FFFFFF.svg?&style=flat&logo=dart&logoColor=085B9A"/>][dart]
 
 ### 🧰 Frameworks and libraries
 
-[<img alt="Android" src="https://img.shields.io/badge/android-FFFFFF.svg?style=for-the-badge&logo=android&logoColor=46E7B7" />][android]
-[<img alt="Flutter" src="https://img.shields.io/badge/flutter-FFFFFF.svg?&style=for-the-badge&logo=Flutter&logoColor=49D2FB" />][flutter]
+[<img alt="Android" src="https://img.shields.io/badge/android-FFFFFF.svg?style=flat&logo=android&logoColor=46E7B7" />][android]
+[<img alt="Flutter" src="https://img.shields.io/badge/flutter-FFFFFF.svg?&style=flat&logo=Flutter&logoColor=49D2FB" />][flutter]
 
 ### 💻 Software and tools
 
-[<img alt="Adobe XD" src="https://img.shields.io/badge/adobe-FFFFFF.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=AF21AA"/>][adobexd]
-[<img alt="Figma" src="https://img.shields.io/badge/figma-FFFFFF.svg?&style=for-the-badge&logo=figma&logoColor=263A58"/>][figma]
+[<img alt="Adobe XD" src="https://img.shields.io/badge/adobe-FFFFFF.svg?&style=flat&logo=adobe%20xd&logoColor=AF21AA"/>][adobexd]
+[<img alt="Figma" src="https://img.shields.io/badge/figma-FFFFFF.svg?&style=flat&logo=figma&logoColor=263A58"/>][figma]
 
 ## 🔥 Streak stats
 
