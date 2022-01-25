@@ -94,7 +94,8 @@
 ## 📒 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Responsive Flutter App with The Power of MediaQuery](https://nightlydev.medium.com/build-a-responsive-flutter-app-with-the-power-of-mediaquery-5188c3fca9c4?source=rss-8f67b6db7256------2)
+- [Mengembangkan Aplikasi Flutter dengan Proses Test-Driven Development &lpar;TDD&rpar; dan Mengadopsi Clean…](https://aditya-rohman.medium.com/mengembangkan-aplikasi-flutter-dengan-proses-test-driven-development-tdd-dan-mengadopsi-clean-29d29bb0702b?source=rss-8f67b6db7256------2)
+- [Build a Responsive Flutter App with The Power of MediaQuery](https://aditya-rohman.medium.com/build-a-responsive-flutter-app-with-the-power-of-mediaquery-5188c3fca9c4?source=rss-8f67b6db7256------2)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://codestronaut.github.io
