@@ -94,6 +94,7 @@
 ## 📒 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Memahami Testing pada Project Aplikasi Flutter](https://aditya-rohman.medium.com/memahami-testing-pada-project-aplikasi-flutter-71b6859b4cd4?source=rss-8f67b6db7256------2)
 - [Mengembangkan Aplikasi Flutter dengan Proses Test-Driven Development &lpar;TDD&rpar; dan Mengadopsi Clean…](https://aditya-rohman.medium.com/mengembangkan-aplikasi-flutter-dengan-proses-test-driven-development-tdd-dan-mengadopsi-clean-29d29bb0702b?source=rss-8f67b6db7256------2)
 - [Build a Responsive Flutter App with The Power of MediaQuery](https://aditya-rohman.medium.com/build-a-responsive-flutter-app-with-the-power-of-mediaquery-5188c3fca9c4?source=rss-8f67b6db7256------2)
 <!-- BLOG-POST-LIST:END -->
