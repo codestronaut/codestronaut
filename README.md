@@ -94,6 +94,7 @@
 ## 📒 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Testing 101 — Understand Unit, Widget, and Integration Testing](https://aditya-rohman.medium.com/flutter-testing-101-understand-unit-widget-and-integration-testing-fd5d07e312e?source=rss-8f67b6db7256------2)
 - [Power Up Your Flutter Development Process by Implementing Clean Architecture and Test-Driven…](https://betterprogramming.pub/flutter-clean-architecture-test-driven-development-practical-guide-445f388e8604?source=rss-8f67b6db7256------2)
 - [Memahami Testing pada Project Aplikasi Flutter](https://aditya-rohman.medium.com/memahami-testing-pada-project-aplikasi-flutter-71b6859b4cd4?source=rss-8f67b6db7256------2)
 - [Mengembangkan Aplikasi Flutter dengan Proses Test-Driven Development &lpar;TDD&rpar; dan Mengadopsi Clean…](https://aditya-rohman.medium.com/mengembangkan-aplikasi-flutter-dengan-proses-test-driven-development-tdd-dan-mengadopsi-clean-29d29bb0702b?source=rss-8f67b6db7256------2)
