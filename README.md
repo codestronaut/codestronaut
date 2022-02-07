@@ -96,8 +96,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Flutter Testing— Understand Unit, Widget, and Integration Testing](https://betterprogramming.pub/flutter-testing-101-understand-unit-widget-and-integration-testing-fd5d07e312e?source=rss-8f67b6db7256------2)
 - [Power Up Your Flutter Development Process by Implementing Clean Architecture and Test-Driven…](https://betterprogramming.pub/flutter-clean-architecture-test-driven-development-practical-guide-445f388e8604?source=rss-8f67b6db7256------2)
-- [Memahami Testing pada Project Aplikasi Flutter](https://aditya-rohman.medium.com/memahami-testing-pada-project-aplikasi-flutter-71b6859b4cd4?source=rss-8f67b6db7256------2)
-- [Mengembangkan Aplikasi Flutter dengan Proses Test-Driven Development &lpar;TDD&rpar; dan Mengadopsi Clean…](https://aditya-rohman.medium.com/mengembangkan-aplikasi-flutter-dengan-proses-test-driven-development-tdd-dan-mengadopsi-clean-29d29bb0702b?source=rss-8f67b6db7256------2)
+- [Flutter Testing 101 — Memahami Unit Testing, Widget Testing, dan Integration Testing pada Flutter](https://aditya-rohman.medium.com/memahami-testing-pada-project-aplikasi-flutter-71b6859b4cd4?source=rss-8f67b6db7256------2)
+- [Tingkatkan Kualitas Aplikasi Flutter dengan Menerapkan Proses Test-Driven Development &lpar;TDD&rpar; dan…](https://aditya-rohman.medium.com/mengembangkan-aplikasi-flutter-dengan-proses-test-driven-development-tdd-dan-mengadopsi-clean-29d29bb0702b?source=rss-8f67b6db7256------2)
 - [Build a Responsive Flutter App with The Power of MediaQuery](https://aditya-rohman.medium.com/build-a-responsive-flutter-app-with-the-power-of-mediaquery-5188c3fca9c4?source=rss-8f67b6db7256------2)
 <!-- BLOG-POST-LIST:END -->
 
