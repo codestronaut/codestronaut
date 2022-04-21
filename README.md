@@ -14,30 +14,6 @@
 - ⛳️ 2022 Goals: Being Full-Time Flutter Developer and contribute to open source
 - ⚡ Fun fact: Always love to code and learn everything
 
-<br>
-
-## 🔥 Contribution Stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="codestronaut's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=codestronaut&theme=monokai-metallian&hide_border=true"/>
-  </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p>
-
-<p align="center">
-  <a href="#codestronaut-title">
-    <img src="https://github-readme-stats.vercel.app/api?username=codestronaut&show_icons=true&theme=dracula&hide_border=true" alt="macropower"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="#codestronaut-title">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codestronaut&layout=compact&theme=dracula&hide_border=true" alt="macropower"/>
-  </a>
-</p>
-
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
@@ -102,6 +78,28 @@
 - [Tingkatkan Kualitas Aplikasi Flutter dengan Menerapkan Proses Test-Driven Development &lpar;TDD&rpar; dan…](https://aditya-rohman.medium.com/mengembangkan-aplikasi-flutter-dengan-proses-test-driven-development-tdd-dan-mengadopsi-clean-29d29bb0702b?source=rss-8f67b6db7256------2)
 - [Build a Responsive Flutter App with The Power of MediaQuery](https://aditya-rohman.medium.com/build-a-responsive-flutter-app-with-the-power-of-mediaquery-5188c3fca9c4?source=rss-8f67b6db7256------2)
 <!-- BLOG-POST-LIST:END -->
+
+## 🔥 Contribution Stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="codestronaut's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=codestronaut&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
+
+<p align="center">
+  <a href="#codestronaut-title">
+    <img src="https://github-readme-stats.vercel.app/api?username=codestronaut&show_icons=true&theme=dracula&hide_border=true" alt="macropower"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="#codestronaut-title">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codestronaut&layout=compact&theme=dracula&hide_border=true" alt="macropower"/>
+  </a>
+</p>
 
 [website]: https://codestronaut.github.io
 [youtube]: https://www.youtube.com/channel/UCkneuRboNnrK25dEDwIVPAw
