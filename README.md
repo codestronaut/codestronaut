@@ -16,6 +16,21 @@
 
 ## 🛠️ My favorite tools
 
+### 💻 Software and tools
+
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" />
+  <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white"/>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-121011?logo=figma&logoColor=white"/>
+  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678?logo=android-studio&logoColor=white"/>
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
+  <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"/>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-FFFFFF?logo=visual-studio-code&logoColor=0078d7"/>
+  <img alt="XCode" src="https://img.shields.io/badge/Xcode-0785DF?logo=xcode&logoColor=white"/>
+  <img alt="Notion" src="https://img.shields.io/badge/Notion-010101?logo=notion&logoColor=white"/>
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFBD46?logo=firebase&logoColor=white"/>
+</p>
+
 ### 👨‍💻 Programming languages
 
 <p>
@@ -40,21 +55,6 @@
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-095B9A?logo=flutter&logoColor=white" />
   <img alt="iOS" src="https://img.shields.io/badge/Ios-FFFFFF?logo=apple&logoColor=black" />
   <img alt="Github Action" src="https://img.shields.io/badge/GitHub%20Actions-2671E5?logo=github%20actions&logoColor=white" />
-</p>
-
-### 💻 Software and tools
-
-<p>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white" />
-  <img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white"/>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-121011?logo=figma&logoColor=white"/>
-  <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678?logo=android-studio&logoColor=white"/>
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
-  <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"/>
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-FFFFFF?logo=visual-studio-code&logoColor=0078d7"/>
-  <img alt="XCode" src="https://img.shields.io/badge/Xcode-0785DF?logo=xcode&logoColor=white"/>
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-010101?logo=notion&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFBD46?logo=firebase&logoColor=white"/>
 </p>
 
 <br>
