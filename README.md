@@ -9,12 +9,6 @@
 
 ## I'm a Student, Mobile Developer, and UI/UX Designer!!
 
-<a href="#codestronaut-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=codestronaut&show_icons=true&theme=dracula&hide_border=true" alt="macropower" align="right" />
-</a>
-
-<!-- [![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=codestronaut&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats) -->
-
 - 🌱 Currently learning Flutter and iOS Development 😊
 - 👨‍💻👩‍💻 Looking to collaborate with other content creators
 - ⛳️ 2022 Goals: Being Full-Time Flutter Developer and contribute to open source
@@ -22,7 +16,7 @@
 
 <br>
 
-## 🔥 Streak stats
+## 🔥 Contribution Stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
@@ -38,11 +32,13 @@
   </a>
 </p>
 
-## 🛠️ My favorite tools
+<p align="center">
+  <a href="#codestronaut-title">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codestronaut&layout=compact&theme=dracula&hide_border=true" alt="macropower"/>
+  </a>
+</p>
 
-<a href="#codestronaut-title">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codestronaut&layout=compact&theme=dracula&hide_border=true" alt="macropower" align="right" />
-</a>
+## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
 
