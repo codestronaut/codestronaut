@@ -4,7 +4,6 @@
 [<img alt="Youtube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCkneuRboNnrK25dEDwIVPAw?label=Subscribers%20&logo=Youtube"/>][youtube]
 [<img alt="Youtube Views" src="https://img.shields.io/youtube/channel/views/UCkneuRboNnrK25dEDwIVPAw?label=Views%20&logo=Youtube"/>][youtube]
 [<img alt="LinkedIn" src="https://img.shields.io/badge/Aditya Rohman%20-%230077B5.svg?logo=linkedin&logoColor=white"/>][linkedin]
-[<img alt="Instagram" src="https://img.shields.io/badge/adityaa.r__%20-%23E4405F.svg?logo=Instagram&logoColor=white"/>][instagram]
 [<img alt="Stack Overflow" src="https://img.shields.io/stackexchange/stackoverflow/r/15894688?color=orange&label=Reputation&logo=stackoverflow"/>][stackoverflow]
 
 ## I'm a Student, Mobile Developer, and UI/UX Designer!!
