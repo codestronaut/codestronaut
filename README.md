@@ -32,11 +32,12 @@ Have 2+ years of experience in building mobile applications. Familiar with mobil
     </tr>
     <tr>
       <td>
-        <h3>Habitomic</h3>
+        <img src="https://raw.githubusercontent.com/codestronaut/codestronaut/master/1_featured_project.png"/>
+        <h3>Habitomic - Track Every 1 Percent Routine to Build New Habit</h3>
         <img alt="Flutter" src="https://img.shields.io/badge/OnGoing-71C28F?logo=github&logoColor=white&label=Status"/>
         <img alt="Flutter" src="https://img.shields.io/badge/Flutter-1EBBFD?logo=flutter&logoColor=white"/>
         <img alt="Flutter" src="https://img.shields.io/badge/Dart-0C5196?logo=flutter&logoColor=white"/>
-        <p>Habitomic - Track Every 1 Percent Routine to Build New Habit. Is a lifestyle app to create habit plan, organize, get daily reminder, and new habit progress. Build with Flutter and use Firebase as the backend</p>
+        <p>Habitomic is a lifestyle app to create habit plan, organize, get daily reminder, and new habit progress. Build with Flutter and use Firebase as the backend</p>
         <p>📦 BLoC State Management</p>
         <p>🔥 Firebase</p>
         <h6>Tags: app, open-source, habit-tracker</h6>
