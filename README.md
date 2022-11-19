@@ -14,8 +14,8 @@ Have 2+ years of experience in building mobile applications. Familiar with mobil
 
 <br />
 <div style="display: flex; align-items: center;">
-<img src="https://github-readme-stats.vercel.app/api?username=codestronaut&show_icons=true&theme=dracula&hide_border=true" alt="My Github Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codestronaut&theme=monokai-metallian&hide_border=true" alt="My Streak"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=codestronaut&show_icons=true&theme=dracula&hide_border=true" alt="My Github Stats"/>
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=codestronaut&theme=monokai-metallian&hide_border=true" alt="My Streak"/>
 </div>
 
 ## Featured Projects
