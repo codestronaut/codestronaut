@@ -9,6 +9,7 @@ Have 2+ years of experience in building mobile applications. Familiar with mobil
 * 🔭 I’m currently working on 
   - [Habitomic App](#featured-projects) 👇🏼
   - [Flutter Contents](#flutter-contents) 👇🏼
+* 🎯 2023 Goals: Make a contribution to Github everyday (Get 2023 Github activity GREEN 🤭)
 * 🌱 I’m Currently learning all about `Flutter`, `iOS native development`, and `Jetpack Compose`
 * 💬 AMA about Flutter 💙
 
