@@ -43,7 +43,7 @@ Have 2+ years of experience in building mobile applications. Familiar with mobil
         <h6>Tags: app, open-source, habit-tracker</h6>
       </td>
       <td>
-        <a href="https://github.com/roaa94/flutter-puzzle-hack">
+        <a href="https://github.com/codestronaut/habitomic">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=codestronaut&repo=habitomic&theme=dracula&hide_border=true"/>
         </a>
       </td>
@@ -61,7 +61,7 @@ Have 2+ years of experience in building mobile applications. Familiar with mobil
         <h6>Tags: app, ios, learning</h6>
       </td>
       <td>
-        <a href="https://github.com/roaa94/flutter-puzzle-hack">
+        <a href="https://github.com/codestronaut/my-book-shelf">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=codestronaut&repo=my-book-shelf&theme=dracula&hide_border=true"/>
         </a>
       </td>
