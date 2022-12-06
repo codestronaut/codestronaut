@@ -2,7 +2,6 @@
 
 [<img alt="Gmail" src="https://img.shields.io/badge/hello.adityarohman@gmail.com-2D3038?logo=gmail&logoColor=white" />][email]
 [<img alt="LinkedIn" src="https://img.shields.io/badge/Aditya Rohman%20-%230077B5.svg?logo=linkedin&logoColor=white"/>][linkedin]
-[![HitCount](https://hits.dwyl.com/codestronaut/codestronaut.svg?style=flat)](http://hits.dwyl.com/codestronaut/codestronaut)
 
 Have 2+ years of experience in building mobile applications. Familiar with mobile development tools and frameworks like Android native with Java or Kotlin, Flutter with Dart, and iOS native with Swift. Have experience in writing clean and maintainable code, conducting the Test-Driven Development process, and implementing clean architecture approaches.
 
