@@ -8,8 +8,8 @@ Have 2+ years of experience in building mobile applications. Familiar with mobil
 * 👨🏻‍💻 Flutter Developer at Koltiva
 * 🔭 I’m currently working on 
   - [Flutter Contents](#flutter-contents) 👇🏼
-* 🎯 2023 Goals: Make a contribution to Github everyday (Get 2023 Github activity GREEN 🤭)
-* 🌱 I’m Currently learning all about `Flutter`, `iOS native development`, and `Jetpack Compose`
+* 🎯 2023 Goals: Being a professional iOS Developer
+* 🌱 I’m Currently learning all about `Flutter`, `iOS Development`, and `Jetpack Compose`
 * 💬 AMA about Flutter 💙
 
 <br />
@@ -37,7 +37,7 @@ Have 2+ years of experience in building mobile applications. Familiar with mobil
         <img alt="Status" src="https://img.shields.io/badge/Completed-71C28F?logo=github&logoColor=white&label=Status"/>
         <img alt="Flutter" src="https://img.shields.io/badge/Flutter-1EBBFD?logo=flutter&logoColor=white"/>
         <img alt="Dart" src="https://img.shields.io/badge/Dart-0C5196?logo=flutter&logoColor=white"/>
-        <p>Movie Database app is a Flutter app project that allows users to search for a movie or tv series, see the detail, season & episode, and save watchlist. The movies and tv series data is gotten from https://www.themoviedb.org/</p>
+        <p>Movie Database app is a Flutter app project that allows users to search for a movie or tv series, see the detail, season & episode, and save the watchlist. The movies and tv series data is gotten from https://www.themoviedb.org/</p>
         <p>🏙️ Advanced UI</p>
         <p>🧪 Test-Driven Development (TDD) - Unit, Widget, and Integration tests</p>
         <p>🏗️ Clean Architecture</p>
@@ -51,14 +51,32 @@ Have 2+ years of experience in building mobile applications. Familiar with mobil
     </tr>
     <tr>
       <td>
+        <img src="https://raw.githubusercontent.com/codestronaut/codestronaut/master/3_feature_project.png"/>
+        <h3>Bull's Eye - Number Guessing Game</h3>
+        <img alt="Flutter" src="https://img.shields.io/badge/Completed-71C28F?logo=github&logoColor=white&label=Status"/>
+        <img alt="Flutter" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white"/>
+        <img alt="Flutter" src="https://img.shields.io/badge/iOS-white?logo=apple&logoColor=black"/>
+        <p>Bull's Eye is a number guessing game with a local leaderboard built with Swift & SwiftUI. This app is created for educational purposes.</p>
+        <p>🎨 Learning SwiftUI basic</p>
+        <p>🏗️ Learning the basic building block of iOS App Development</p>
+        <h6>Tags: app, ios, learning</h6>
+      </td>
+      <td>
+        <a href="https://github.com/codestronaut/bullseye">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codestronaut&repo=bullseye&theme=dracula&hide_border=true"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <img src="https://raw.githubusercontent.com/codestronaut/codestronaut/master/2_featured_project.png"/>
         <h3>My Book Shelf - Reading List App</h3>
         <img alt="Flutter" src="https://img.shields.io/badge/Completed-71C28F?logo=github&logoColor=white&label=Status"/>
         <img alt="Flutter" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white"/>
         <img alt="Flutter" src="https://img.shields.io/badge/iOS-white?logo=apple&logoColor=black"/>
-        <p>My Book Shelf is a simple iOS app that display list of books that I'm currently read and on my wishlist. This app is created for educational porposes.</p>
-        <p>🌱 Learning UIKit</p>
-        <p>🌱 Implement AutoLayout</p>
+        <p>My Book Shelf is a simple iOS app that displays the list of books I'm reading and on my wishlist. This app is created for educational purposes.</p>
+        <p>🎨 Learning UIKit</p>
+        <p>📐 Implement AutoLayout</p>
         <h6>Tags: app, ios, learning</h6>
       </td>
       <td>
