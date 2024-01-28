@@ -3,7 +3,7 @@
 [<img alt="Gmail" src="https://img.shields.io/badge/hello.adityarohman@gmail.com-2D3038?logo=gmail&logoColor=white" />][email]
 [<img alt="LinkedIn" src="https://img.shields.io/badge/Aditya Rohman%20-%230077B5.svg?logo=linkedin&logoColor=white"/>][linkedin]
 
-I Have 2+ years of experience in building mobile applications. Familiar with various mobile development tools and frameworks like Android native with Java or Kotlin, Flutter with Dart, and iOS native with Swift. Besides mobile development-specific areas, I also have a good understanding of general software engineering practices such as writing clean and maintainable code, conducting the Test-Driven Development (TDD) process, writing tests (unit, instrumental, integration), implementing clean architecture approaches, and design patterns. I always put perfection and high attention to detail in my work.
+I Have 3+ years of experience in building mobile applications. Familiar with various mobile development tools and frameworks like Android native with Java or Kotlin, Flutter with Dart, and iOS native with Swift. Besides mobile development-specific areas, I also have a good understanding of general software engineering practices such as writing clean and maintainable code, conducting the Test-Driven Development (TDD) process, writing tests (unit, instrumental, integration), implementing clean architecture approaches, and design patterns. I always put perfection and high attention to detail in my work.
 
 * 👨🏻‍💻 Flutter Developer at [Koltiva](https://www.koltiva.com/)
 * 🔭 I’m currently working on 
