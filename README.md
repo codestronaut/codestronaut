@@ -13,11 +13,27 @@ I Have 3+ years of experience in building mobile applications. Familiar with var
 * 🌱 I’m Currently learning all about `Dart, Flutter`, `Swift, iOS Development`, and `Kotlin, Jetpack Compose`
 * 💬 AMA about Flutter 💙
 
-<br />
-<div style="display: flex; align-items: center;">
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=codestronaut&show_icons=true&theme=dracula&hide_border=true" alt="My Github Stats"/>
-<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=codestronaut&theme=monokai-metallian&hide_border=true" alt="My Streak"/>
-</div>
+## Featured Contents
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [FLUTTER ANIMATION DENGAN LOTTIE DALAM 4 MENIT](https://www.youtube.com/watch?v=UXastl8wNW4)
+- [JADI KREATOR DI UPLABS BISA DAPAT PASSIVE INCOME](https://www.youtube.com/watch?v=gTNblAf15E0)
+- [MEMBUAT ONBOARDING SCREEN DENGAN FLUTTER](https://www.youtube.com/watch?v=0G1i1Xb4L2E)
+- [TIPS MENJADI SELF-TAUGHT PROGRAMMER](https://www.youtube.com/watch?v=PcdBe0IPpQg)
+- [BAGAIMANA DEVELOPMENT PROCESS SEBUAH APLIKASI?](https://www.youtube.com/watch?v=yzwWRteUfaM)
+<!-- YOUTUBE:END -->
+
+### 📒 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How to Design an Effective Bloc State Management in Flutter Development](https://levelup.gitconnected.com/how-to-design-an-effective-bloc-state-management-in-flutter-development-972baa620dc4?source=rss-8f67b6db7256------2)
+- [How to Provide Localizations Feature to a Flutter App with Bloc Library &amp; Shared Preferences](https://levelup.gitconnected.com/how-to-provide-localizations-feature-to-a-flutter-app-with-bloc-library-shared-preferences-2c2f4fc2fb8a?source=rss-8f67b6db7256------2)
+- [Easy Way to Create a Good Error-Handling in Flutter With Dartz](https://betterprogramming.pub/easiest-way-to-create-a-good-error-handling-in-flutter-with-dartz-44084d5341bb?source=rss-8f67b6db7256------2)
+- [Write Unit Tests for Appwrite SDK on Flutter With Mockito](https://betterprogramming.pub/write-unit-test-for-appwrite-sdk-on-flutter-with-mockito-e0c3b403199e?source=rss-8f67b6db7256------2)
+- [Flutter Testing— Understand Unit, Widget, and Integration Testing](https://betterprogramming.pub/flutter-testing-101-understand-unit-widget-and-integration-testing-fd5d07e312e?source=rss-8f67b6db7256------2)
+<!-- BLOG-POST-LIST:END -->
 
 ## Featured Projects
 
@@ -88,27 +104,6 @@ I Have 3+ years of experience in building mobile applications. Familiar with var
     </tr>
   </tbody>
 </table>
-
-## Flutter Contents
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [FLUTTER ANIMATION DENGAN LOTTIE DALAM 4 MENIT](https://www.youtube.com/watch?v=UXastl8wNW4)
-- [JADI KREATOR DI UPLABS BISA DAPAT PASSIVE INCOME](https://www.youtube.com/watch?v=gTNblAf15E0)
-- [MEMBUAT ONBOARDING SCREEN DENGAN FLUTTER](https://www.youtube.com/watch?v=0G1i1Xb4L2E)
-- [TIPS MENJADI SELF-TAUGHT PROGRAMMER](https://www.youtube.com/watch?v=PcdBe0IPpQg)
-- [BAGAIMANA DEVELOPMENT PROCESS SEBUAH APLIKASI?](https://www.youtube.com/watch?v=yzwWRteUfaM)
-<!-- YOUTUBE:END -->
-
-### 📒 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [How to Design an Effective Bloc State Management in Flutter Development](https://levelup.gitconnected.com/how-to-design-an-effective-bloc-state-management-in-flutter-development-972baa620dc4?source=rss-8f67b6db7256------2)
-- [How to Provide Localizations Feature to a Flutter App with Bloc Library &amp; Shared Preferences](https://levelup.gitconnected.com/how-to-provide-localizations-feature-to-a-flutter-app-with-bloc-library-shared-preferences-2c2f4fc2fb8a?source=rss-8f67b6db7256------2)
-- [Easy Way to Create a Good Error-Handling in Flutter With Dartz](https://betterprogramming.pub/easiest-way-to-create-a-good-error-handling-in-flutter-with-dartz-44084d5341bb?source=rss-8f67b6db7256------2)
-- [Write Unit Tests for Appwrite SDK on Flutter With Mockito](https://betterprogramming.pub/write-unit-test-for-appwrite-sdk-on-flutter-with-mockito-e0c3b403199e?source=rss-8f67b6db7256------2)
-- [Flutter Testing— Understand Unit, Widget, and Integration Testing](https://betterprogramming.pub/flutter-testing-101-understand-unit-widget-and-integration-testing-fd5d07e312e?source=rss-8f67b6db7256------2)
-<!-- BLOG-POST-LIST:END -->
 
 [email]: mailto:hello.adityarohman@gmail.com
 [linkedin]: https://www.linkedin.com/in/adityarohman
