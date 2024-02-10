@@ -50,13 +50,14 @@ I Have 3+ years of experience in building mobile applications. Familiar with var
       <td>
         <img src="https://raw.githubusercontent.com/codestronaut/firetodo/main/art/preview.png"/>
         <img src="https://raw.githubusercontent.com/codestronaut/codestronaut/master/mini_bootcamp.png"/>
-        <h3>[Talk - Mentor] GDSC Telkom University Mini Bootcamp - Build Fully Functioning Flutter App with Firebase</h3>
+        <h3>[🎙️ Talk - Mentor] GDSC Telkom University Mini Bootcamp - Build Fully Functioning Flutter App with Firebase</h3>
         <img alt="Status" src="https://img.shields.io/badge/Completed-71C28F?logo=github&logoColor=white&label=Status"/>
         <img alt="Flutter" src="https://img.shields.io/badge/Flutter-1EBBFD?logo=flutter&logoColor=white"/>
         <img alt="Dart" src="https://img.shields.io/badge/Dart-0C5196?logo=flutter&logoColor=white"/>
         <p>Give a talk about what Firebase is and how to integrate Firebase Firestore as the primary database for a Flutter app. Get a deep understanding of how the Firestore works and stores data in the form of collections and documents.</p>
         <p>🔗 <a href="https://gdsc.community.dev/events/details/developer-student-clubs-telkom-university-bandung-presents-mini-bootcamp-2024-02-11/">Event Link</a></p>
         <p>🔗 <a href="https://docs.google.com/presentation/d/1bU3RDB6d5ysICuDCt4CFPh9akpA0gsceeFOMs5omHK8/edit?usp=sharing">Presentation Slides</a></p>
+        <p><b>February 11th, 2024</b></p>
         <h6>Tags: talk, community, public-speaking</h6>
       </td>
       <td>
@@ -88,7 +89,7 @@ I Have 3+ years of experience in building mobile applications. Familiar with var
         <img alt="Status" src="https://img.shields.io/badge/Completed-71C28F?logo=github&logoColor=white&label=Status"/>
         <img alt="Flutter" src="https://img.shields.io/badge/Flutter-1EBBFD?logo=flutter&logoColor=white"/>
         <img alt="Dart" src="https://img.shields.io/badge/Dart-0C5196?logo=flutter&logoColor=white"/>
-        <p>Movie Database app is a Flutter app project that allows users to search for a movie or tv series, see the detail, season & episode, and save the watchlist. The movies and tv series data is gotten from https://www.themoviedb.org/</p>
+        <p>Movie Database app is a Flutter app project that allows users to search for a movie or TV series, see the details, season & episode, and save the watchlist. The movies and TV series data is gotten from https://www.themoviedb.org/</p>
         <p>🏙️ Advanced UI</p>
         <p>🧪 Test-Driven Development (TDD) - Unit, Widget, and Integration tests</p>
         <p>🏗️ Clean Architecture</p>
