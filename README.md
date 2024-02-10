@@ -11,7 +11,7 @@ I Have 3+ years of experience in building mobile applications. Familiar with var
   - Code review at [Dicoding](https://www.dicoding.com/) as an Elite.
 * 🎯 2024 Goals: Being a T-Shaped Mobile Engineer (Flutter, Kotlin, Swift, Back-End, UX)
 * 🌱 I’m Currently learning all about `Dart, Flutter`, `Swift, iOS Development`, and `Kotlin, Jetpack Compose`
-* 💬 AMA about Flutter 💙
+* 💬 Ask me anything about Flutter 💙
 
 ## Featured Contents
 
@@ -43,7 +43,7 @@ I Have 3+ years of experience in building mobile applications. Familiar with var
         Activity
       </th>
       <th width="35%">
-        Source/Links
+        Related Resources
       </th>
     </tr>
     <tr>
@@ -51,9 +51,6 @@ I Have 3+ years of experience in building mobile applications. Familiar with var
         <img src="https://raw.githubusercontent.com/codestronaut/firetodo/main/art/preview.png"/>
         <img src="https://raw.githubusercontent.com/codestronaut/codestronaut/master/mini_bootcamp.png"/>
         <h3>[🎙️ Talk - Mentor] GDSC Telkom University Mini Bootcamp - Build Fully Functioning Flutter App with Firebase</h3>
-        <img alt="Status" src="https://img.shields.io/badge/Completed-71C28F?logo=github&logoColor=white&label=Status"/>
-        <img alt="Flutter" src="https://img.shields.io/badge/Flutter-1EBBFD?logo=flutter&logoColor=white"/>
-        <img alt="Dart" src="https://img.shields.io/badge/Dart-0C5196?logo=flutter&logoColor=white"/>
         <p>Give a talk about what Firebase is and how to integrate Firebase Firestore as the primary database for a Flutter app. Get a deep understanding of how the Firestore works and stores data in the form of collections and documents.</p>
         <p>🔗 <a href="https://gdsc.community.dev/events/details/developer-student-clubs-telkom-university-bandung-presents-mini-bootcamp-2024-02-11/">Event Link</a></p>
         <p>🔗 <a href="https://docs.google.com/presentation/d/1bU3RDB6d5ysICuDCt4CFPh9akpA0gsceeFOMs5omHK8/edit?usp=sharing">Presentation Slides</a></p>
