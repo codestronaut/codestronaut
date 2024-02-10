@@ -35,6 +35,40 @@ I Have 3+ years of experience in building mobile applications. Familiar with var
 - [Flutter Testing— Understand Unit, Widget, and Integration Testing](https://betterprogramming.pub/flutter-testing-101-understand-unit-widget-and-integration-testing-fd5d07e312e?source=rss-8f67b6db7256------2)
 <!-- BLOG-POST-LIST:END -->
 
+## Recent Activities
+<table>
+  <tbody>
+    <tr>
+      <th>
+        Activity
+      </th>
+      <th width="35%">
+        Source/Links
+      </th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/codestronaut/firetodo/main/art/preview.png"/>
+        <img src="https://raw.githubusercontent.com/codestronaut/codestronaut/master/mini_bootcamp.png"/>
+        <h3>[Talk - Mentor] GDSC Telkom University Mini Bootcamp - Build Fully Functioning Flutter App with Firebase</h3>
+        <img alt="Status" src="https://img.shields.io/badge/Completed-71C28F?logo=github&logoColor=white&label=Status"/>
+        <img alt="Flutter" src="https://img.shields.io/badge/Flutter-1EBBFD?logo=flutter&logoColor=white"/>
+        <img alt="Dart" src="https://img.shields.io/badge/Dart-0C5196?logo=flutter&logoColor=white"/>
+        <p>Give a talk about what Firebase is and how to integrate Firebase Firestore as the primary database for a Flutter app. Get a deep understanding of how the Firestore works and stores data in the form of collections and documents.</p>
+        <p>🔗 <a href="https://gdsc.community.dev/events/details/developer-student-clubs-telkom-university-bandung-presents-mini-bootcamp-2024-02-11/">Event Link</a></p>
+        <p>🔗 <a href="https://docs.google.com/presentation/d/1bU3RDB6d5ysICuDCt4CFPh9akpA0gsceeFOMs5omHK8/edit?usp=sharing">Presentation Slides</a></p>
+        <h6>Tags: talk, community, public-speaking</h6>
+      </td>
+      <td>
+        <a href="https://github.com/codestronaut/firetodo">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codestronaut&repo=firetodo&theme=dracula&hide_border=true"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## Featured Projects
 
 <table>
