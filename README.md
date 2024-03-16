@@ -13,6 +13,13 @@ I Have 3+ years of experience in building mobile applications. Familiar with var
 * 🌱 I’m Currently learning all about `Dart, Flutter`, `Swift, iOS Development`, and `Kotlin, Jetpack Compose`
 * 💬 Ask me anything about Flutter 💙
 
+### 💼 My Services
+
+Do you need to build a high-quality mobile app? Whether you're a startup looking to launch your first mobile app or an established business aiming to enhance your digital presence, I'm here to help you every step of the way. From initial concept and design to development, testing, and deployment, I'm committed to delivering results that exceed your expectations.
+
+* Hire me on Upwork: [Visit Profile](https://www.upwork.com/freelancers/~01a77eb1a26fc94f6a?mp_source=share)
+* Hire me on Fiverr: [Visit Gig](https://www.fiverr.com/s/Y2ZQ2a)
+
 ## Featured Contents
 
 ### 📺 Latest YouTube Videos
