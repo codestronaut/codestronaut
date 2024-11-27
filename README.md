@@ -8,7 +8,7 @@ I Have 3+ years of experience in building mobile applications. Familiar with var
 * 👨🏻‍💻 Flutter Developer at [Koltiva](https://www.koltiva.com/)
 * 🔭 I’m currently working on 
   - Creating [Flutter Contents](#flutter-contents) on Medium
-  - Code review at [Dicoding](https://www.dicoding.com/) as an Elite.
+  - Code review & mentorship at [Dicoding](https://www.dicoding.com/) as an Elite.
 * 🎯 2024 Goals: Being a T-Shaped Mobile Engineer (Flutter, Kotlin, Swift, Back-End, UX)
 * 🌱 I’m Currently learning all about `Dart, Flutter`, `Swift, iOS Development`, and `Kotlin, Jetpack Compose`
 * 💬 Ask me anything about Flutter 💙
