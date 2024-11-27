@@ -55,12 +55,29 @@ Do you need to build a high-quality mobile app? Whether you're a startup looking
     </tr>
     <tr>
       <td>
+        <img src="https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/event/dos-26ed472db68d5049c5806834eafb4be020241114163819.jpg"/>
+        <h3>[🎙️ Talk - Speaker/Coach] DevCoach 177: Flutter | Code Generations: Optimalkan Waktu Pengembangan Aplikasi Flutter</h3>
+        <p>As a speaker, I delve into the core concepts of code generation in Flutter development, explore various code generators for common use cases, and analyze the trade-offs involved in implementing code generation.</p>
+        <p>🔗 <a href="https://www.dicoding.com/events/9083">Event Link</a></p>
+        <p>🗂️ <a href="https://docs.google.com/presentation/d/1JeyomnCxj-y2bY5icVP2Tg9hAGtaeaQxHk5jRKK1cI4/edit?usp=sharing">Presentation Slides</a></p>
+        <p>📹 <a href="https://www.youtube.com/live/NIjheE1JirQ?si=Qa9srp1DAJhVozpo">Recoding</a></p>
+        <p><b>November 22th, 2024</b></p>
+        <h6>Tags: talk, community, public-speaking</h6>
+      </td>
+      <td>
+        <a href="https://github.com/codestronaut/firetodo">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codestronaut&repo=firetodo&theme=dracula&hide_border=true"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <img src="https://raw.githubusercontent.com/codestronaut/firetodo/main/art/preview.png"/>
         <img src="https://raw.githubusercontent.com/codestronaut/codestronaut/master/mini_bootcamp.png"/>
         <h3>[🎙️ Talk - Mentor] GDSC Telkom University Mini Bootcamp - Build Fully Functioning Flutter App with Firebase</h3>
-        <p>Give a talk about what Firebase is and how to integrate Firebase Firestore as the primary database for a Flutter app. Get a deep understanding of how the Firestore works and stores data in the form of collections and documents.</p>
+        <p>Give a talk about what Firebase is and how to integrate Firebase Firestore as the primary database for a Flutter app. Get a deep understanding of how the Firestore works and stores data in collections and documents.</p>
         <p>🔗 <a href="https://gdsc.community.dev/events/details/developer-student-clubs-telkom-university-bandung-presents-mini-bootcamp-2024-02-11/">Event Link</a></p>
-        <p>🔗 <a href="https://docs.google.com/presentation/d/1bU3RDB6d5ysICuDCt4CFPh9akpA0gsceeFOMs5omHK8/edit?usp=sharing">Presentation Slides</a></p>
+        <p>🗂️ <a href="https://docs.google.com/presentation/d/1bU3RDB6d5ysICuDCt4CFPh9akpA0gsceeFOMs5omHK8/edit?usp=sharing">Presentation Slides</a></p>
         <p><b>February 11th, 2024</b></p>
         <h6>Tags: talk, community, public-speaking</h6>
       </td>
