@@ -65,8 +65,8 @@ Do you need to build a high-quality mobile app? Whether you're a startup looking
         <h6>Tags: talk, community, public-speaking</h6>
       </td>
       <td>
-        <a href="https://github.com/codestronaut/firetodo">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codestronaut&repo=firetodo&theme=dracula&hide_border=true"/>
+        <a href="https://github.com/codestronaut/solve-ai">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codestronaut&repo=solve-ai&theme=dracula&hide_border=true"/>
         </a>
       </td>
     </tr>
