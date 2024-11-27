@@ -49,9 +49,6 @@ Do you need to build a high-quality mobile app? Whether you're a startup looking
       <th>
         Activity
       </th>
-      <th width="35%">
-        Related Resources
-      </th>
     </tr>
     <tr>
       <td>
@@ -64,11 +61,6 @@ Do you need to build a high-quality mobile app? Whether you're a startup looking
         <p><b>November 22th, 2024</b></p>
         <h6>Tags: talk, community, public-speaking</h6>
       </td>
-      <td>
-        <a href="https://github.com/codestronaut/solve-ai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=codestronaut&repo=solve-ai&theme=dracula&hide_border=true"/>
-        </a>
-      </td>
     </tr>
     <tr>
       <td>
@@ -80,8 +72,7 @@ Do you need to build a high-quality mobile app? Whether you're a startup looking
         <p>🗂️ <a href="https://docs.google.com/presentation/d/1bU3RDB6d5ysICuDCt4CFPh9akpA0gsceeFOMs5omHK8/edit?usp=sharing">Presentation Slides</a></p>
         <p><b>February 11th, 2024</b></p>
         <h6>Tags: talk, community, public-speaking</h6>
-      </td>
-      <td>
+        <hr/>
         <a href="https://github.com/codestronaut/firetodo">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=codestronaut&repo=firetodo&theme=dracula&hide_border=true"/>
         </a>
