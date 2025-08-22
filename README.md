@@ -11,7 +11,7 @@ I take pride in attention to detail, precision, and continuous learning, always 
 
 * 👨🏻‍💻 Currently work as a Mobile Engineer at [Koltiva](https://www.koltiva.com/)
 * 🔭 I’m currently working on
-  - Building the [sui-grpc-flutter]([https://www.dicoding.com/](https://github.com/codestronaut/sui-grpc-flutter)).
+  - Building the [sui-grpc-flutter](https://github.com/codestronaut/sui-grpc-flutter).
   - Code review & mentorship at [Dicoding](https://www.dicoding.com/) as an Elite.
   - Creating [Flutter Contents](#flutter-contents) on Medium.
 * 🎯 2025 Goals: Grind Blockchain expertise.
