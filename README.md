@@ -3,14 +3,19 @@
 [<img alt="Gmail" src="https://img.shields.io/badge/hello.adityarohman@gmail.com-2D3038?logo=gmail&logoColor=white" />][email]
 [<img alt="LinkedIn" src="https://img.shields.io/badge/Aditya Rohman%20-%230077B5.svg?logo=linkedin&logoColor=white"/>][linkedin]
 
-I Have 3+ years of experience in building mobile applications. Familiar with various mobile development tools and frameworks like Android native with Java or Kotlin, Flutter with Dart, and iOS native with Swift. Besides mobile development-specific areas, I also have a good understanding of general software engineering practices such as writing clean and maintainable code, conducting the Test-Driven Development (TDD) process, writing tests (unit, instrumental, integration), implementing clean architecture approaches, and design patterns. I always put perfection and high attention to detail in my work.
+With 4+ years of experience in mobile app development, I specialize in crafting high-performance, user-centric applications across Android (Java/Kotlin), iOS (Swift), and Flutter (Dart). My expertise spans the entire development lifecycle—from ideation to deployment—leveraging modern frameworks and best practices.
 
-* 👨🏻‍💻 Flutter Developer at [Koltiva](https://www.koltiva.com/)
-* 🔭 I’m currently working on 
-  - Creating [Flutter Contents](#flutter-contents) on Medium
+Beyond mobile-specific technologies, I am deeply committed to writing clean, maintainable, and scalable code using Test-Driven Development (TDD), unit and integration testing, and clean architecture principles. I thrive on solving complex problems, optimizing app performance, and implementing design patterns that enhance both functionality and user experience.
+
+I take pride in attention to detail, precision, and continuous learning, always striving for perfection in every project I work on.
+
+* 👨🏻‍💻 Currently work as a Mobile Engineer at [Koltiva](https://www.koltiva.com/)
+* 🔭 I’m currently working on
+  - Building the [sui-grpc-flutter]([https://www.dicoding.com/](https://github.com/codestronaut/sui-grpc-flutter)).
   - Code review & mentorship at [Dicoding](https://www.dicoding.com/) as an Elite.
-* 🎯 2024 Goals: Being a T-Shaped Mobile Engineer (Flutter, Kotlin, Swift, Back-End, UX)
-* 🌱 I’m Currently learning all about `Dart, Flutter`, `Swift, iOS Development`, and `Kotlin, Jetpack Compose`
+  - Creating [Flutter Contents](#flutter-contents) on Medium.
+* 🎯 2025 Goals: Grind Blockchain expertise.
+* 🌱 I’m currently learning all about `Blockchain` and `Smart Contract` development.
 * 💬 Ask me anything about Flutter 💙
 
 ### 💼 My Services
@@ -67,7 +72,7 @@ Do you need to build a high-quality mobile app? Whether you're a startup looking
         <img src="https://raw.githubusercontent.com/codestronaut/firetodo/main/art/preview.png"/>
         <img src="https://raw.githubusercontent.com/codestronaut/codestronaut/master/mini_bootcamp.png"/>
         <h3>[🎙️ Talk - Mentor] GDSC Telkom University Mini Bootcamp - Build Fully Functioning Flutter App with Firebase</h3>
-        <p>Give a talk about what Firebase is and how to integrate Firebase Firestore as the primary database for a Flutter app. Get a deep understanding of how the Firestore works and stores data in collections and documents.</p>
+        <p>Give a talk about what Firebase is and how to integrate Firebase Firestore as the primary database for a Flutter app. Get a deep understanding of how Firestore works and stores data in collections and documents.</p>
         <p>🔗 <a href="https://gdsc.community.dev/events/details/developer-student-clubs-telkom-university-bandung-presents-mini-bootcamp-2024-02-11/">Event Link</a></p>
         <p>🗂️ <a href="https://docs.google.com/presentation/d/1bU3RDB6d5ysICuDCt4CFPh9akpA0gsceeFOMs5omHK8/edit?usp=sharing">Presentation Slides</a></p>
         <p><b>February 11th, 2024</b></p>
@@ -105,7 +110,7 @@ Do you need to build a high-quality mobile app? Whether you're a startup looking
         <p>🏙️ Advanced UI</p>
         <p>🧪 Test-Driven Development (TDD) - Unit, Widget, and Integration tests</p>
         <p>🏗️ Clean Architecture</p>
-        <h6>Tags: app, open-source, movie-dabatase</h6>
+        <h6>Tags: app, open-source, movie-database</h6>
       </td>
       <td>
         <a href="https://github.com/codestronautHub/flutter-movie-database-app">
@@ -120,9 +125,9 @@ Do you need to build a high-quality mobile app? Whether you're a startup looking
         <img alt="Flutter" src="https://img.shields.io/badge/Completed-71C28F?logo=github&logoColor=white&label=Status"/>
         <img alt="Flutter" src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white"/>
         <img alt="Flutter" src="https://img.shields.io/badge/iOS-white?logo=apple&logoColor=black"/>
-        <p>Bull's Eye is a number guessing game with a local leaderboard built with Swift & SwiftUI. This app is created for educational purposes.</p>
+        <p>Bull's Eye is a number-guessing game with a local leaderboard built with Swift & SwiftUI. This app is created for educational purposes.</p>
         <p>🎨 Learning SwiftUI basic</p>
-        <p>🏗️ Learning the basic building block of iOS App Development</p>
+        <p>🏗️ Learning the basic building blocks of iOS App Development</p>
         <h6>Tags: app, ios, learning</h6>
       </td>
       <td>
