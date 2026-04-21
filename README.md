@@ -1,31 +1,23 @@
-## Hi! I'm Aditya 👋
+## Hi! I'm Aditya 👋🏼
 
-[<img alt="Gmail" src="https://img.shields.io/badge/hello.adityarohman@gmail.com-2D3038?logo=gmail&logoColor=white" />][email]
-[<img alt="LinkedIn" src="https://img.shields.io/badge/Aditya Rohman%20-%230077B5.svg?logo=linkedin&logoColor=white"/>][linkedin]
+[<img alt="Gmail" src="https://img.shields.io/badge/hello.adityarohman@gmail.com-292524?logo=gmail&logoColor=white" />][email]
+[<img alt="LinkedIn" src="https://img.shields.io/badge/Aditya Rohman%20-%230C0A09.svg?logo=x&logoColor=white"/>][x]
+[<img alt="LinkedIn" src="https://img.shields.io/badge/Aditya Rohman%20-%230077B5.svg?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K&logoColor=white"/>][linkedin]
 
-With 4+ years of experience in mobile app development, I specialize in crafting high-performance, user-centric applications across Android (Java/Kotlin), iOS (Swift), and Flutter (Dart). My expertise spans the entire development lifecycle—from ideation to deployment—leveraging modern frameworks and best practices.
+Mobile engineer with 4+ years of experience shipping production iOS and Android apps. Focused on turning product ideas into reliable, user-ready features through strong architecture, pragmatic trade-offs, and fast iteration. Experienced in owning end-to-end delivery, from technical design and implementation to release and monetization.
 
-Beyond mobile-specific technologies, I am deeply committed to writing clean, maintainable, and scalable code using Test-Driven Development (TDD), unit and integration testing, and clean architecture principles. I thrive on solving complex problems, optimizing app performance, and implementing design patterns that enhance both functionality and user experience.
-
-I take pride in attention to detail, precision, and continuous learning, always striving for perfection in every project I work on.
-
-* 👨🏻‍💻 Currently work as a Mobile Engineer at [Koltiva](https://www.koltiva.com/)
-* 🔭 I’m currently working on
-  - Building the [sui-grpc-flutter](https://github.com/codestronaut/sui-grpc-flutter).
-  - Code review & mentorship at [Dicoding](https://www.dicoding.com/) as an Elite.
-  - Creating [Flutter Contents](#flutter-contents) on Medium.
-* 🎯 2025 Goals: Grind Blockchain expertise.
-* 🌱 I’m currently learning all about `Blockchain` and `Smart Contract` development.
-* 💬 Ask me anything about Flutter 💙
+* 👨🏻‍💻 Work independently as a Full Stack Mobile Engineer at [Rainforelabs](https://www.linkedin.com/company/rainforelabs).
+* 🍀 Currently building [Clovra: Budgeting for Clarity](https://www.linkedin.com/company/clovra-app) iOS app.
+* 🧠 Actively learning all about `Swift`, `SwiftUI`, and iOS development at [CWC+](https://codewithchris.com/), [SwiftLee Concurrency Course](https://www.avanderlee.com/swift-concurrency-course-swift-6-migration/), and [Kodeco](https://www.kodeco.com/ios/paths).
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -37,14 +29,14 @@ I take pride in attention to detail, precision, and continuous learning, always 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" height="40" alt="solidity logo"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/codestronaut/codestronaut/output/snake.svg" alt="Snake animation" />
-
-### 💼 My Services
+### 💼 Open to hire
 
 Do you need to build a high-quality mobile app? Whether you're a startup looking to launch your first mobile app or an established business aiming to enhance your digital presence, I'm here to help you every step of the way. From initial concept and design to development, testing, and deployment, I'm committed to delivering results that exceed your expectations.
 
@@ -185,3 +177,4 @@ Do you need to build a high-quality mobile app? Whether you're a startup looking
 
 [email]: mailto:hello.adityarohman@gmail.com
 [linkedin]: https://www.linkedin.com/in/adityarohman
+[x]: https://x.com/adityarhmaan_
