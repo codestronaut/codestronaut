@@ -45,16 +45,6 @@ Do you need to build a high-quality mobile app? Whether you're a startup looking
 
 ## Featured Contents
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [FLUTTER ANIMATION DENGAN LOTTIE DALAM 4 MENIT](https://www.youtube.com/watch?v=UXastl8wNW4)
-- [JADI KREATOR DI UPLABS BISA DAPAT PASSIVE INCOME](https://www.youtube.com/watch?v=gTNblAf15E0)
-- [MEMBUAT ONBOARDING SCREEN DENGAN FLUTTER](https://www.youtube.com/watch?v=0G1i1Xb4L2E)
-- [TIPS MENJADI SELF-TAUGHT PROGRAMMER](https://www.youtube.com/watch?v=PcdBe0IPpQg)
-- [BAGAIMANA DEVELOPMENT PROCESS SEBUAH APLIKASI?](https://www.youtube.com/watch?v=yzwWRteUfaM)
-<!-- YOUTUBE:END -->
-
 ### 📒 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
